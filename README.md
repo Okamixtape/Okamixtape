@@ -5,7 +5,7 @@ I can speak 🇫🇷, 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇯🇵
 
 ***
 
-- 🔭 I’m currently working on a [3D Portfolio](https://okamixtape.github.io/3D_portfolio/) and some AI art stuff
+- 🔭 I’m currently working on a [3D Portfolio](https://okamixtape.github.io/3D_portfolio/) and generating some AI art stuff
 - 🌱 I’m currently learning [react-three-fiber](https://github.com/pmndrs/react-three-fiber) for [threejs](https://threejs.org/)
 - 💬 Ask me about **anything** I love to use my 🧠
 - 📫 How to reach me : loup.aubour@gmail.com
@@ -19,6 +19,6 @@ I can speak 🇫🇷, 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇯🇵
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okamixtape&layout=compact" />
 </div>
 
-## 📈 AI Art Stuff :
+## 🤖 🖼️ AI Art Stuff :
 
 <img style="width: 100%; height: auto; display: block; margin: 0 auto; border: 4px solid #ccc;" src="./assets/images/impressionist_painting.png" alt="Description de l'image">
