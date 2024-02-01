@@ -1,6 +1,6 @@
 # Hi, I'm Loup ! 
 
-I'm aspiring to become a front-end expert in the field of application development. <br />
+I'm aspiring to become a front-end expert in the field of web application development. <br />
 I can speak 🇫🇷, 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇯🇵
 
 ***
