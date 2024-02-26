@@ -14,11 +14,5 @@ I can speak 🇫🇷, 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇯🇵
 ## 📈 Github Stats :
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Okamixtape" style="margin-right: 12px;" />  
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okamixtape&layout=compact" />
 </div>
-
-## 🤖 🖼️ AI Art Stuff :
-
-<img style="width: 100%; height: auto; display: block; margin: 0 auto; border: 4px solid #ccc;" src="./assets/images/impressionist_painting.png" alt="Description de l'image">
