@@ -9,7 +9,7 @@ I can speak 🇫🇷, 🏴󠁧󠁢󠁥󠁮󠁧󠁿, 🇯🇵
 - 🌱 I’m currently learning [react-three-fiber](https://github.com/pmndrs/react-three-fiber) for [threejs](https://threejs.org/)
 - 💬 Ask me about **anything** I love to use my 🧠
 - 📫 How to reach me : loup.aubour@gmail.com
-- ⚡ Fun fact : I am a Japanese speaking unicyclist ( 🗣️ 🇯🇵 + ( 🚲 / 2 ) = me )
+- ⚡ Fun fact : I am a Japanese speaking unicyclist ( 🗣️ 🇯🇵 + ( 🚲 % 2 ) = me )
 
 ## 📈 Github Stats :
 
