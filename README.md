@@ -11,22 +11,36 @@ Je suis un développeur freelance passionné par la création d'expériences web
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okamixtape&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Okamixtape)
+### 💼 Expérience
 
-### 🚀 Ce que je propose
+Contributions projets pour **Pierre Fabre**, **Jaguar Land Rover**, 
+**Crédit Agricole**, **Quick**, **Fraikin**
 
-- **💻 Développement Web :** Création de sites vitrines, e-commerce et applications web responsives sur-mesure.
-- **🎨 Conception UI/UX :** Maquettage d'interfaces avec Figma pour une expérience utilisateur optimale.
-- **💡 Conseil & Stratégie :** Audit technique et accompagnement pour faire les bons choix technologiques.
+### 🛠️ Stack Technique
 
-### 🌱 Ce que j'explore en ce moment
+**Frontend:** React, Vue.js, Angular, Next.js, TypeScript  
+**Styling:** Tailwind CSS, SCSS, Styled Components  
+**Backend:** Node.js, Symfony, PHP  
+**E-commerce:** Shopify, WooCommerce  
+**Tools:** Figma, Cypress, Storybook, Git  
+**AI-Assisted:** Windsurf, Claude, Gemini
 
-Je suis en veille technologique constante pour rester à la pointe. Actuellement, j'approfondis ma maîtrise du développement assisté par l'IA (AI-assisted development) pour optimiser mon flux de travail, accélérer les phases de prototypage et améliorer la qualité du code.
+### 🎯 Services
+
+- Sites vitrines performants
+- Plateformes e-commerce
+- Applications web React/Vue
+- Intégration Figma → Code
+- Optimisation & refonte
 
 ### 📫 Contact & Infos
 
 - **Discutons de votre projet :** [loup.aubour@gmail.com](mailto:loup.aubour@gmail.com)
 - **LinkedIn :** [https://www.linkedin.com/in/loup-aubour-front-end-dev/](https://www.linkedin.com/in/loup-aubour-front-end-dev/)
+
+---
+
+⭐️ Disponible pour missions freelance | Démarrage rapide
 
 ### ⚡ Fun fact : 
 
